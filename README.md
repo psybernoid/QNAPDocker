@@ -75,7 +75,7 @@ If you get a green tick, click apply and wait for the image to download, then th
 Once running, you should see the container running in the Overview tab
 ![running container](https://user-images.githubusercontent.com/600235/193783307-d8042743-e7ff-4e7a-aa6b-48cbc66aa405.png)
 
-Navigating to http://<NAS-IP>:3000 should show you an OpenSpeedTest page.
+Navigating to http://NAS-IP:3000 should show you an OpenSpeedTest page.
 
 [Back to top](#top)
 
@@ -183,7 +183,7 @@ Once running, container station should show 2 containers running under the datab
 
 ![stack running](https://user-images.githubusercontent.com/600235/193795748-dfe77949-ac48-40fb-a32a-e97797cd1cba.png)
 
-Now, if you go to http://<NAS-IP>:88 you should be prompted with a logon page. Try it!
+Now, if you go to http://NAS-IP:88 you should be prompted with a logon page. Try it!
 Enter root as the username and kdFkdQZkhxy8n4dJbPA as the password.
 
 
