@@ -198,7 +198,7 @@ Enter root as the username and kdFkdQZkhxy8n4dJbPA as the password.
 
 This is where SSH access comes in handy.
 
-Connect to your NAS using ssh username@IP replacing username with your usernam,e & IP with your NAS' IP or hostname.
+Connect to your NAS using ssh username@IP replacing username with your username & IP with your NAS' IP or hostname.
 
 Once in, there's several commands we can use.
 
