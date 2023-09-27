@@ -4,6 +4,8 @@
 How to run Docker on QNAP NAS Devices
 
 
+## NOTE: As of the recent Container station update, 'docker-compose' command no longer works. You must instead use 'docker compose'
+
 This is a basic guide encompassing most use-cases of Docker on a QNAP NAS device.
 Steps are the same for either QTS or QuTS Hero.
 
